@@ -1,6 +1,6 @@
 # Aho-Corasick
 
-Aho-Corasick Algorithm
+Algorithm on Strings.
 
 ### References 
 
