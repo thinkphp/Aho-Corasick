@@ -1,6 +1,6 @@
 # Aho-Corasick
 
-Algorithm on Strings.
+The Aho-Corasick algorithm allows us to quickly search for multiple patterns in a text
 
 ### References 
 
